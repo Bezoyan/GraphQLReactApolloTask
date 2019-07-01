@@ -1,0 +1,22 @@
+.App {
+  text-align: left;
+  padding: 30px;
+}
+
+.data {
+  width: 500px;
+  height: 100px;
+  padding: 70px;
+  margin: 20px;
+  text-align: justify;
+  overflow: visible;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
